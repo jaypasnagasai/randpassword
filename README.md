@@ -27,17 +27,17 @@ python password_generator.py
 
 ## Script Explanation
 
-The script uses the random and string modules to generate passwords. It defines a PasswordGenerator class with methods for generating passwords. The main logic of generating passwords is in the generate_password method.
+The script uses the `random` and `string` modules to generate passwords. It defines a `PasswordGenerator` class with methods for generating passwords. The main logic of generating passwords is in the `generate_password` method.
 
 You can customize the following parameters when generating a password:
 
 
-length: The length of the password.
-use_uppercase: Include uppercase letters (y/n).
-use_lowercase: Include lowercase letters (y/n).
-use_digits: Include digits (y/n).
-use_special: Include special characters (y/n).
-use_space: Include spaces (y/n).
+`length`: The length of the password.
+`use_uppercase`: Include uppercase letters (y/n).
+`use_lowercase`: Include lowercase letters (y/n).
+`use_digits`: Include digits (y/n).
+`use_special`: Include special characters (y/n).
+`use_space`: Include spaces (y/n).
 
 ## Example: 
 
